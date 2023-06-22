@@ -1,0 +1,222 @@
+{
+  "short_name": "Retnasari",
+  "name": "Retnasari",
+  "description": "Saya Retnasari, umumnya teman-temanku memanggilku Retna, saya asli klaten akan tetapi domisili sekarang di Yogyakarta, saya seorang Akuntan, pengalaman tersebut saya dapatkan sejak di bangku perkuliahan serta pengalaman dari beberapa perusahaan tempat saya bekerja, saya sangat menguasai akuntan, keuangan dan perpajakan.",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#8c178f",
+  "background_color": "#ffffff",
+  "logo": "/logo.png",
+  "homepage_background": "/logo.png",
+  "header_logo": "/logo.png",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "/manifest.json"
+    }
+  ],
+  "splashs": [
+    {
+      "src": "/splash/splash-640x1136.png",
+      "sizes": "640x1136",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-1136x640.png",
+      "sizes": "1136x640",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-2436x1125.png",
+      "sizes": "2436x1125",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-1125x2436.png",
+      "sizes": "1125x2436",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-828x1792.png",
+      "sizes": "828x1792",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-1334x750.png",
+      "sizes": "1334x750",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-1792x828.png",
+      "sizes": "1792x828",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-750x1334.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-2208x1242.png",
+      "sizes": "2208x1242",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-1242x2208.png",
+      "sizes": "1242x2208",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-1242x2688.png",
+      "sizes": "1242x2688",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-2732x2048.png",
+      "sizes": "2732x2048",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-2688x1242.png",
+      "sizes": "2688x1242",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-2224x1668.png",
+      "sizes": "2224x1668",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-2048x2732.png",
+      "sizes": "2048x2732",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-1668x2224.png",
+      "sizes": "1668x2224",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-1668x2388.png",
+      "sizes": "1668x2388",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-2388x1668.png",
+      "sizes": "2388x1668",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-2048x1536.png",
+      "sizes": "2048x1536",
+      "type": "image/png"
+    },
+    {
+      "src": "/splash/splash-1536x2048.png",
+      "sizes": "1536x2048",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/icons/logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    { "src": "/icons/logo-96x96.png", "sizes": "96x96", "type": "image/png" },
+    {
+      "src": "/icons/logo-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    { "src": "/icons/logo-32x32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "/icons/logo-16x16.png", "sizes": "16x16", "type": "image/png" },
+    {
+      "src": "/icons/logo-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    { "src": "/icons/logo-60x60.png", "sizes": "60x60", "type": "image/png" },
+    {
+      "src": "/icons/logo-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    { "src": "/icons/logo-72x72.png", "sizes": "72x72", "type": "image/png" },
+    { "src": "/icons/logo-57x57.png", "sizes": "57x57", "type": "image/png" },
+    { "src": "/icons/logo-76x76.png", "sizes": "76x76", "type": "image/png" },
+    {
+      "src": "/icons/logo-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-167x167.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/logo-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+  ]
+}

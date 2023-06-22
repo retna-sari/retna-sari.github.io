@@ -1,0 +1,168 @@
+.input_search_box{
+  display: block;
+  //width: 100%;
+  max-width: 300px;
+  //padding: 5px 10px;
+  padding: 5px 5px 5px 15px;
+  @extend .flex_1;
+  .input_box{
+    position: relative; background-color: #fff;
+    box-shadow: 0 0 0 1px primaryShadow;
+    border-radius: 3px; overflow: hidden;
+    .inputs{
+      position: relative;
+      background-color: transparent;
+      padding: 4px 15px;
+      min-height: 32px;
+      border: 0;
+      outline: none;
+      background-color: #fff;
+      font-weight: 500;
+      color: #6e6e6e;
+      width: 100%;
+      padding-right: 35px;
+      font-size: .9rem;
+      line-height: 1.75;
+    }
+    .icon_search{
+      position: absolute;right: 9px;
+      top: 0;
+      bottom: 0;
+      margin: auto;opacity: .7;
+    }
+  }
+}
+
+.lazyfox_input_box{
+  margin-bottom: 18px;
+  width: 100%;
+  .lazyfox_select_box_value, .lazyfox_input_box_value{
+    position: relative;
+    //border: 1px solid #d4d4d4;
+    box-shadow: 0 0 4px rgba(3,3,3,.3);
+    border-radius: 3px;
+    .value_title{
+      font-size: 12px;
+      padding: 0 10px 0 5px;
+      margin: 0;
+      display: block;
+      font-weight: 500;
+      letter-spacing: 1px;
+      position: absolute;
+      top: -8px;
+      background-color: #fff;
+      color: #757575;
+      font-weight: 700;
+    }
+    .is_error{
+      box-shadow: $notifyAlertShadow;
+    }
+    .value_box{
+      padding: 12px 15px;
+      font-weight: 500;
+      opacity: .7;
+      min-height: 52px;
+      @extend .d_flex;
+      @extend .align_items_center;
+      @extend .flex_wrap;
+      .value_text_placeholder{
+        color: $notActive;
+        opacity: .7;
+        cursor: pointer;
+      }
+      .input_box_values{
+        @extend .value_text_placeholder;
+        border: none;
+        outline: none;
+        font-weight: 500;
+        width: 100%;
+        background-color: transparent;
+        opacity: 1;
+        color: #494949;
+        resize: none;
+        cursor: initial;
+      }
+    }
+  }
+  .lazyfox_select_box_list{
+    padding: 10px;
+  }
+}
+
+.lazyfox_select_box{
+  @extend .lazyfox_input_box;
+  display: inline-block !important;
+  padding-top: 10px;
+  .select_box_items{
+    padding: 10px;
+    color: $notActive;
+    background-color: #f1f1f1;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    font-weight: 500;
+    cursor: pointer;
+    &:hover{
+      opacity: .8;
+    }
+  }
+  .lazyfox_select_box_value{
+    cursor: pointer;
+  }
+  .selected_items{
+    background-color: $notifyWarning;
+    color: $notActive;
+    &:hover{
+      opacity: 1;
+    }
+  }
+  .value_text{
+    padding: 2px 10px;
+    background-color: $notifyWarning;
+    margin-right: 10px;
+    border-radius: 3px;
+    margin-top: 5px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  .error_box{
+    box-shadow: $notifyAlertShadow !important;
+  }
+  .error_wrappers{
+    @extend .d_flex;
+    @extend .align_items_center;
+    margin-top: 5px;
+    .icons_error{
+      fill: $notifyAlert;
+    }
+
+    .error_text{
+      color: $notifyAlert;
+      display: block;
+      padding: 5px 0;
+      margin-left: 10px;
+      font-size: 13px;
+    }
+  }
+}
+.btn_open_pasword{
+  @extend .d_flex;
+  @extend .align_items_center;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  margin-top: auto;
+  margin-bottom: auto;
+  right: 0;
+  padding-left: 8px;
+  padding-right: 8px;
+  background-color: #f1f1f1;
+  height: 100%;
+  cursor: pointer;
+  .btn_open_pasword_icon{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+  }
+}
+// value_box

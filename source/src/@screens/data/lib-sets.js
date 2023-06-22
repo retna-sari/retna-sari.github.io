@@ -1,0 +1,58 @@
+export const LibSets = [
+  {
+    title: "Akuntansi",
+    icon: "pie-chart",
+    color: "onec-purple",
+    text: "Over 1 Years experience",
+    status: "EXPERT",
+  },
+  {
+    title: "Keuangan",
+    icon: "wallet",
+    color: "onec-orange",
+    text: "Over 7 Years experience",
+    status: "EXPERT",
+  },
+  {
+    title: "Perpajakan",
+    icon: "price-tag",
+    color: "onec-green",
+    text: "Over 5 Years experience",
+    status: "EXPERT",
+  },
+  {
+    title: "Public Speaking",
+    icon: "chat2",
+    color: "onec-orange",
+    text: "Less 5 Years experience",
+    status: "EXPERT",
+  },
+  {
+    title: "Kemampuan Analisa",
+    icon: "lamp",
+    color: "onec-blue",
+    text: "Less 5 Years experience",
+    status: "EXPERT",
+  },
+  {
+    title: "MS Office Familly",
+    icon: "microsoftword",
+    color: "onec-green",
+    text: "Less 5 Years experience",
+    status: "EXPERT",
+  },
+  {
+    title: "Google Docs Familly",
+    icon: "google",
+    color: "onec-blue",
+    text: "Less 5 Years experience",
+    status: "EXPERT",
+  },
+  {
+    title: "Adobe Photoshop",
+    icon: "adobephotoshop",
+    color: "onec-purple",
+    text: "Less 5 Years experience",
+    status: "EXPERT",
+  },
+];

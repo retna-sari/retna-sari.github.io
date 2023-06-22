@@ -1,0 +1,66 @@
+.centerimg{display: block;position: absolute;z-index: 1; top: 200px; left: 0; text-align: center; width: 100%;}
+
+		.centerimg .img{display: inline-block; border-radius: 120px; border: 2px solid #fff;width: 200px; height: 200px;}
+
+		.personalskills{position: relative; width: 100%; min-height: 650px; padding-top: 40px;}
+
+		.personalskills .content{position:relative;z-index: 5; top: 0;}
+
+		.personalskills .content .itemright{padding: 25px 3px 25px 3px; text-align: right; position: relative; min-height: 140px;}
+
+		.personalskills .content .itemleft{padding: 25px 3px 25px 3px; text-align: left; position: relative; min-height: 140px;}
+
+
+
+		.personalskills .content .itemleft .headtext{width: 100%; padding: 10px 10px 10px 113px ; font-size: 1.2em; }
+
+		.personalskills .content .itemright .headtext{width: 100%; padding: 10px 113px 10px 10px ; font-size: 1.2em;}
+
+		.personalskills .content .itemright .foottext{width: 100%; padding: 0px 115px 5px 5px; font-size: 1em; }
+
+		.personalskills .content .itemleft .foottext{width: 100%; padding: 0px 5px 5px 115px; font-size: 1em;}
+
+
+
+		.personalskills .content .itemleft img{width: 90px;border-radius: 50%;padding: 10px; position: absolute; left: 15px; top: 10px;}
+
+		.personalskills .content .itemright img{width: 90px; border-radius: 50%;padding: 10px; position: absolute; right: 15px; top: 10px;}
+
+
+
+		.onetitleone{text-align: center;font-size: 2em;padding: 5px;z-index: 3;position: relative;}
+
+		.onetitletwo{text-align: center;font-size: 2em;padding: 10px; overflow: hidden;z-index: 2;position: relative;}
+
+		.onetitletree{text-align: center;font-size: 1.3em; padding: 10px 5% 10px 5%;z-index: 2;position: relative; font-weight: 200;}
+
+		.onetextbox{padding: 8px; display: inline-block; margin: 10px; border-radius: 7px; border: 2px solid #00AAFF;z-index: 2;position: relative;}
+
+		.oneportoinfo {display: block;text-align: center; justify-content: center; width: 100%; position: relative;z-index: 2; padding-top: 50px;}
+
+		.oneportoinfo .img{display: inline-block; width: 100%; border-radius: 50%;}
+
+		.oneportoinfo .imgluar{display: inline-block; padding: 10px; width: 210px;height: 210px; border-radius: 50%; border: 3px solid #fff}
+
+		.talktome{padding: 30px 10% 90px 10%; font-size: .85em; font-weight: 200}
+
+		.aboutme{position: relative;display: inline-block;padding: 30px 10% 0 10%;}
+
+		.aboutme .box{padding: 30px; padding-bottom: 10px;}
+
+		.aboutme .containerbox{ position: relative; display: block; top: -130px; z-index: 5}
+
+		.aboutme img{background-color: rgb(255,255,255); padding: 15px; border-radius: 50%; width: 140px; height: 140px;}
+
+		.aboutme .tittle{padding: 10px;font-size: 1.1em; font-weight: bold; position: relative; color: #545454;}
+
+		.aboutme .line{width: 30%; display: inline-block; height: 2px;margin-bottom: 10px; margin-top: 5px;}
+
+		.aboutme .text{padding: 15px;}
+
+		.aboutme .subtitle{padding: 10px;font-size: 1.4em; font-weight: 200; position: relative; color: #545454; font-family: 'Lato'}
+
+		.ogray{background-color: rgb(255,255,255);}
+
+		.odarkgray{background-color: rgb(221,222,204);}
+    .mar{margin-bottom: 5px;}

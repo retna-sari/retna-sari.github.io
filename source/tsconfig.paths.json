@@ -1,0 +1,55 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths":{
+      "@assets": ["./src/@assets/"],
+      "@img": ["./src/@img/"],
+      "@icons": ["./src/@icons/"],
+      "@interfaces": ["./src/@interfaces/"],
+      "@module-flat-list": ["./src/@module-flat-list/"],
+      "@module-button": ["./src/@module-button/"],
+      "@module-inputs": ["./src/@module-inputs/"],
+      "@module-layout": ["./src/@module-layout/"],
+      "@module-modal-window": ["./src/@module-modal-window/"],
+      "@assets/*": ["./src/@assets/*"],
+      "@icons/*": ["./src/@icons/*"],
+      "@interfaces/*": ["./src/@interfaces/*"],
+      "@module-flat-list/*": ["./src/@module-flat-list/*"],
+      "@module-button/*": ["./src/@module-button/*"],
+      "@module-inputs/*": ["./src/@module-inputs/*"],
+      "@module-layout/*": ["./src/@module-layout/*"],
+      "@module-modal-window/*": ["./src/@module-modal-window/*"],
+      "@module-main/*":["./src/@module-main/*"]
+    },
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "declaration": true,
+    "declarationDir": "./lib",
+    "outDir": "./lib",
+    "allowJs": true,
+    "skipLibCheck": false,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react",
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*.tsx",
+  ],
+  "exclude": [
+    "node_modules",
+    "lib",
+    "src/index.tsx"
+  ]
+}

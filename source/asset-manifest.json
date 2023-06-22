@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57296531.css",
+    "main.js": "/static/js/main.b0008186.js",
+    "static/media/img-retna.png": "/static/media/img-retna.a67a7576279f78ff9657.png",
+    "static/media/back9.png": "/static/media/back9.a80161339e2bd9b0cd28.png",
+    "static/media/retna.png": "/static/media/retna.2d5d6bb4ee5db306ab06.png",
+    "static/media/back.jpg": "/static/media/back.e866e9f63a803d30eaa5.jpg",
+    "static/media/back6.jpg": "/static/media/back6.5f65faf41a90b2dc5fc3.jpg",
+    "static/media/back8.jpg": "/static/media/back8.acc5c79e9fd199d5b34e.jpg",
+    "static/media/back5.jpg": "/static/media/back5.7328de7d4689e3eb0972.jpg",
+    "static/media/laptop.png": "/static/media/laptop.20ad122217d1e66b7efa.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/back_trans.jpg": "/static/media/back_trans.714e06fa36aff305cfa5.jpg",
+    "static/media/index_back.png": "/static/media/index_back.46153159ef2260cea721.png",
+    "static/media/creative.png": "/static/media/creative.d85b0b1664daedc3d495.png",
+    "static/media/back2.jpg": "/static/media/back2.037449d97d9cc9352a95.jpg",
+    "static/media/back4.jpg": "/static/media/back4.f16276a656aba0f19461.jpg",
+    "static/media/back2_land.jpg": "/static/media/back2_land.dbb1faa8a2531bfe0e04.jpg",
+    "static/media/heart.png": "/static/media/heart.435e30f1c9daac7f7e7b.png",
+    "static/media/1.png": "/static/media/1.25845d4c5eb1f0bc0faf.png",
+    "static/media/back3.jpg": "/static/media/back3.92a35db4be2bc297a50d.jpg",
+    "static/media/3.png": "/static/media/3.ce3b880dbea6be89c2d8.png",
+    "static/media/certified.png": "/static/media/certified.7f34b5235ad804b78475.png",
+    "static/media/interface.png": "/static/media/interface.bc7f2452ab7be7e99b6a.png",
+    "static/media/4.png": "/static/media/4.fed837117051c8401614.png",
+    "static/media/fast.png": "/static/media/fast.815645ecbebac163fc5e.png",
+    "static/media/problem.png": "/static/media/problem.09403988f409fd79bc61.png",
+    "static/media/team.png": "/static/media/team.440cf4d3f4c2f56c75e4.png",
+    "index.html": "/index.html",
+    "static/media/2.png": "/static/media/2.c0582710e67cacae37c6.png",
+    "main.57296531.css.map": "/static/css/main.57296531.css.map",
+    "main.b0008186.js.map": "/static/js/main.b0008186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57296531.css",
+    "static/js/main.b0008186.js"
+  ]
+}

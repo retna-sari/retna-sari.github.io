@@ -1,0 +1,20 @@
+.main_content{
+  position: relative;
+  width: 100%;
+  max-width: 561px;
+  @media (max-width: 911px) { 
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+  }
+  .content_box{
+    //background-color: #fff;
+    min-height: 100vh;
+  }
+}
+.main_content_wided{
+  max-width: 100%;
+}
+.content_read_items{
+  margin-left: auto; margin-right: auto;
+}

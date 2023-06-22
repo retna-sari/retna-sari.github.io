@@ -1,0 +1,86 @@
+.head_navigation{
+  background-color: $primaryColor;
+  min-height: 52px;
+  box-shadow: 0 0 15px 0px rgba(3, 3, 3, 0.2);
+  position: fixed; z-index: 999999;
+  left: 0; right: 0; top: 0;
+  .header_content{
+    width: 100%;
+    .onpedia_logo{
+      height: 32px;
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+      .own_icon{
+        width: 32px; height: 100%; height: 32px;
+        background-color: #fff; padding: 3px; border-radius: 3px;
+        display: none;
+      }
+      .logos_text,.logos_text_bold{
+        color: #fff;
+        padding: 10px 0;
+        font-size: 28px;
+        font-weight: 200;
+        text-decoration: none;
+        cursor: pointer;
+        //display: none;
+      }
+      .logos_text_smalls{
+        font-size: 23px;
+      }
+      .logos_text_left{
+        margin-left: 4px;
+      }
+      .be_bold{
+        font-weight: 300;
+      }
+      .logos_text_bold{
+        margin-left: 5px;
+        font-weight: 700;
+        color: $primaryColor;
+        width: 35px;
+        height: 35px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #fff;
+        margin-right: 3px;
+        border-radius: 50% 0 50% 50%;
+        //padding-bottom: 13px;
+        font-size: 27px;
+        //border-radius: 4px;
+
+      }
+    }
+    .right_button_container{
+      // max-width: 80%;
+      // width: 100%;
+    }
+    .left_button_container{
+      // max-width: 80%;
+      // width: 100%;
+      @extend .flex_1;
+      // @media(max-width:400px){
+      //   max-width: 68%;
+      // }
+    }
+
+    .detail_titles{
+      overflow: hidden;
+      padding-left: 10px;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      //max-width: 75%;
+      color: #fff;
+      .detail_titles_text{
+        letter-spacing: 1px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        color: #fff;
+      }
+    }
+  }
+  
+}

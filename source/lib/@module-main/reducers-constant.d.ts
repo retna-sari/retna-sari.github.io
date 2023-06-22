@@ -1,0 +1,1 @@
+export declare const SETTINGS_LANGUAGE = "SETTINGS_LANGUAGE";
