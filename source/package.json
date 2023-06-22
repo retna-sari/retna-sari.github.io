@@ -10,7 +10,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && cp -R build/* ../foxdreem.github.io/ && cd ../foxdreem.github.io && git add . && git commit -m 'update web' && git push",
-    "build:windows": "react-scripts build && @powershell Copy ./build/* ./ -force -Recurse && git add . && git commit -m update-web-app && git push",
+    "build:windows": "react-scripts build && @powershell Copy ./build/* ../ -force -Recurse && git add . && git commit -m update-web-app && git push",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build-test": "react-scripts build",
