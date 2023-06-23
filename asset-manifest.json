@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.57296531.css",
-    "main.js": "/static/js/main.b0008186.js",
+    "main.js": "/static/js/main.8d6f1022.js",
     "static/media/img-retna.png": "/static/media/img-retna.a67a7576279f78ff9657.png",
     "static/media/back9.png": "/static/media/back9.a80161339e2bd9b0cd28.png",
     "static/media/retna.png": "/static/media/retna.2d5d6bb4ee5db306ab06.png",
@@ -30,10 +30,10 @@
     "index.html": "/index.html",
     "static/media/2.png": "/static/media/2.c0582710e67cacae37c6.png",
     "main.57296531.css.map": "/static/css/main.57296531.css.map",
-    "main.b0008186.js.map": "/static/js/main.b0008186.js.map"
+    "main.8d6f1022.js.map": "/static/js/main.8d6f1022.js.map"
   },
   "entrypoints": [
     "static/css/main.57296531.css",
-    "static/js/main.b0008186.js"
+    "static/js/main.8d6f1022.js"
   ]
 }
