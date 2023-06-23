@@ -89,6 +89,9 @@ class ScreenPortofolio extends Component<ScreenHomePropType, any> {
                 <span className="onetextbox onec-orange">Akuntan</span>
                 <span className="onetextbox onec-green">Perpajakan</span>
                 <span className="onetextbox onec-semiorange">Administrasi</span>
+                <span className="onetextbox onec-semiorange">
+                  Customer Care
+                </span>
               </div>
               <div className="onetitletree onec-white">
                 Saya berpengalaman dalam industri lebih dari 8 tahun, jika kamu

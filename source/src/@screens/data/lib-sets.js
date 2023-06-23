@@ -53,6 +53,6 @@ export const LibSets = [
     icon: "adobephotoshop",
     color: "onec-purple",
     text: "Less 5 Years experience",
-    status: "EXPERT",
+    status: "INTERMEDIET",
   },
 ];
