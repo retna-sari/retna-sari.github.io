@@ -82,7 +82,7 @@ export class FooterGlobal extends Component<any> {
               </a>
             </div>
             <div className="item ml6 oneleft item onelinkhover">
-              <a href="https://id.linkedin.com/in/retna.sr" target="_blank">
+              <a href="https://id.linkedin.com/in/retna-sr" target="_blank">
                 <FoxIcon
                   icon={"linkedin"}
                   className="icon oneicon one-linkedin onec-blue rotate"
@@ -90,7 +90,7 @@ export class FooterGlobal extends Component<any> {
                 />
 
                 <div className="text">Linkedin</div>
-                <div className="text">@retna.sr</div>
+                <div className="text">@retna-sr</div>
               </a>
             </div>
             <div className="item ml6 oneleft item onelinkhover">
